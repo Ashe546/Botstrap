@@ -1,0 +1,17 @@
+body {
+ background-color: #f4f5f7;
+}
+
+.navbar {
+  background-color: #fff;
+}
+
+.header {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing: 0.37px;
+  color: #091E42;
+}
