@@ -104,3 +104,53 @@ body {
   background-color: white;
   color: #6070FF;
 }
+
+.container1 {
+  background-color: #fff; 
+  border-bottom-left-radius: 100px; 
+  width: 100%;
+}
+
+.row1 {
+  background-color: #fff; 
+  height: 200px;
+}
+
+.row2 {
+  height: 200px;
+}
+
+.row3 {
+  height: 50px;
+}
+
+.container2 {
+  background-color: #f4f5f7; 
+  border-radius: 40px;
+}
+
+.row4 {
+  padding-top: 100px;
+}
+
+.row5 {
+  height: 500px; 
+  background-color: #fff; 
+  padding-top: 20px;
+}
+
+.col-5a {
+  background-color: #fff; 
+  height: 450px;  
+  margin-right: 40px;
+}
+
+.img {
+  width: 100%; 
+  height: inherit;
+}
+
+.frame1 {
+  display: flex; 
+  flex-direction: row;
+}
